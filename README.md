@@ -1,6 +1,7 @@
 # first_app
 
-A new Flutter project.
+Author: HourCode
+instructor: Academind by Maximilian Schwarzmüller
 
 ## Dice Roller Application
 
